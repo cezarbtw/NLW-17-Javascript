@@ -3,5 +3,6 @@
 -[x]metas concluidas
 -metas abertas
 -[x]marcar/Desmarcar metas como concluida
--remover metas
-- sistema de mensagens
+- [x]remover metas
+- [x]xsistema de mensagens
+- [x] cadastrar e salvar metas
